@@ -1,3 +1,8 @@
+# Description: Meetup SPA tutorial 
+
+Followed Academind youtube React.js tutorial and created a SPA.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
