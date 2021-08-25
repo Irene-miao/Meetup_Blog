@@ -1,6 +1,6 @@
 # Description: Meetup SPA tutorial 
 
-Followed Academind youtube React.js tutorial and created a SPA.
+Followed Academind youtube React.js tutorial and created a SPA: https://irene-miao.github.io/Meetup_Blog/
 
 
 # Getting Started with Create React App
